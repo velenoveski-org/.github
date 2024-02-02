@@ -3,13 +3,12 @@
 ### Hi, I'm Vele Noveski! 👋
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/velenoveski)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velenoveski-org&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski-org" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=velenoveski&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski" /> </p>
 
 ## **I'm a Full Stack .NET Developer | Microsoft MVP | .NET Trainer**
 
 ### Experienced Software Engineer with 7+ years experience in software development industry.
 ### .NET Trainer in Full Stack .NET Development Academy at Change Academy.
-
 - 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, Micro Services, DDD, SOLID and other advanced software architectures.
 - 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, DTOs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Microsoft Azure, xUnit Testing, DevOps, CI/CD Pipelines.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
@@ -45,6 +44,10 @@
    <ul>
      <li> Angular 13 Web Application for booking resources.</li>
     </ul> 
+  <li><b>xUnit-Tests-Inverter-Console</b></li> 
+    <ul>
+     <li> .NET 8 ConsoleApp for implemeting xUnitTests on Inverter class method Invert. Implemented SOLID Principles with async await.</li>
+    </ul> 
   <li><b>ReceiptScanner-Console</b></li> 
     <ul>
      <li> .NET 6 Console App for ReceiptScanner.</li>
@@ -68,8 +71,8 @@
 </ul>
 <hr/>
 
-<b>These repositories are private and my profesional portfolio. They are consisting the latest approaches for long-term success and starting a full stack project using .NET Framework, .NET Core, .NET 6+, ASP.MVC Core, Angular, Microsoft Azure, Docker-compose, CosmosDB, MSSQL, PostgreSQL, Azure SQL, CI/CD Pipelines, GitHub Actions, xUnit Testing and etc.  <br> This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 in order to give you a collaborator access in my organization! </b> <br>
+<b>These repositories are private and my professional portfolio. They are consisting the latest approaches for long-term success and starting a full stack project using .NET Framework, .NET Core, .NET 6+, ASP.MVC Core, Angular, Microsoft Azure, Docker-compose, CosmosDB, MSSQL, PostgreSQL, Azure SQL, CI/CD Pipelines, GitHub Actions, xUnit Testing and etc.  <br> This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 in order to give you a collaborator access in my organization https://github.com/velenoveski-org ! </b> <br>
 <hr/>
-<a href="https://github.com/velenoveski-org">
+<a href="https://github.com/velenoveski">
   <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />
 </a>
