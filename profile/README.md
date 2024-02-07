@@ -3,7 +3,7 @@
 ### Hi, I'm Vele Noveski! 👋
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/velenoveski)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velenoveski&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=velenoveski-org&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski-org" /> </p>
 
 ## **I'm a Full Stack .NET Developer | Microsoft MVP | .NET Trainer**
 
@@ -80,5 +80,5 @@
 <b>These repositories are private and my professional portfolio. They are consisting the latest approaches for long-term success and starting a full stack project using .NET Framework, .NET Core, .NET 6+, ASP.MVC Core, Angular, Microsoft Azure, Docker-compose, CosmosDB, MSSQL, PostgreSQL, Azure SQL, CI/CD Pipelines, GitHub Actions, xUnit Testing and etc.  <br> This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 in order to give you a collaborator access in my organization https://github.com/velenoveski-org ! </b> <br>
 <hr/>
 <a href="https://github.com/velenoveski">
-  <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=velenoveski-&count_private=true&show_icons=true&hide=stars" />
 </a>
