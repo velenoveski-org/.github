@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio! 
+# Welcome to my Professional GitHub Portfolio! 
 
 ### Hi, I'm Vele Noveski! 👋
 
