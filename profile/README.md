@@ -1,4 +1,4 @@
-# Welcome to my Professional GitHub Portfolio! 
+# Welcome to my GitHub Portfolio! 
 
 ### Hi, I'm Vele Noveski! 👋
 
@@ -82,7 +82,7 @@
 
 <body>
   <header>
-    <h1>Professional Portfolio: Pioneering Full-Stack Development Solutions</h1>
+    <h1>Pioneering Full-Stack Development Solutions</h1>
   </header>
 
   <section>
